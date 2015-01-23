@@ -1,0 +1,44 @@
+html {
+	background-color: #dbd6cf;
+}
+
+
+h1, h2, h3 {
+	font-family: 'Bevan', cursive;
+	color: #79756f;
+}
+
+
+ol {
+	padding:0;
+	color: #713837;
+	list-style-type: none;
+	font-family: ariel, sans-serif;
+}
+
+
+a {
+	color: #713837
+}
+
+
+a:hover {
+	color: red;
+}
+
+
+.quote {
+	font-style: italic;
+	font-size: 1.5rem;
+	text-align: center;
+}
+
+b{
+	color: #79757c;
+	font-style: normal;
+}
+
+p {
+	font-family: ariel, sans-serif;
+	line-height: 1.5;
+}
