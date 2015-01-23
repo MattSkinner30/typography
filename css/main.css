@@ -1,5 +1,7 @@
 html {
 	background-color: #dbd6cf;
+	line-height: 1.5;
+
 }
 
 
@@ -8,6 +10,10 @@ h1, h2, h3 {
 	color: #79756f;
 }
 
+p {
+	font-family: ariel, sans-serif;
+	line-height: 1.5;
+}
 
 ol {
 	padding:0;
@@ -30,7 +36,8 @@ a:hover {
 .quote {
 	font-style: italic;
 	font-size: 1.5rem;
-	text-align: center;
+	padding: 35;
+	font-family: times-new-roman, serif;
 }
 
 b{
@@ -38,7 +45,26 @@ b{
 	font-style: normal;
 }
 
-p {
+
+
+.neil {
+	text-align: right;
+	color: #79757c;
+	font-family: times-new-roman, serif;
+	font-style: italic;
+}
+
+ul {
+	list-style-type: lower-roman;
+
+}
+
+figcaption {
+	font-style: italic;
+	font-size: .8rem;
 	font-family: ariel, sans-serif;
-	line-height: 1.5;
+}
+
+dl {
+	font-style: bold;
 }
